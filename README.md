@@ -8,30 +8,30 @@
 
 ├── compute/<br>
 │ ├── main.tf<br>
-│ └── variables.tf
-├── firewall/
-│ ├── main.tf
-│ └── variables.tf
-├── module/
-│ └── instance/
-│ ├── app-server/
-│ │ ├── main.tf
-│ │ ├── outputs.tf
-│ │ └── variables.tf
-│ ├── gateway-server/
-│ │ ├── main.tf
-│ │ ├── outputs.tf
-│ │ └── variables.tf
-│ └── monitoring-server/
-│ ├── main.tf
-│ ├── outputs.tf
-│ └── variables.tf
-├── network/
-│ ├── main.tf
-│ └── variables.tf
-├── main.tf
-├── provider.tf
-└── key.json
+│ └── variables.tf<br>
+├── firewall/<br>
+│ ├── main.tf<br>
+│ └── variables.tf<br>
+├── module/<br>
+│ └── instance/<br>
+│ ├── app-server/<br>
+│ │ ├── main.tf<br>
+│ │ ├── outputs.tf<br>
+│ │ └── variables.tf<br>
+│ ├── gateway-server/<br>
+│ │ ├── main.tf<br>
+│ │ ├── outputs.tf<br>
+│ │ └── variables.tf<br>
+│ └── monitoring-server/<br>
+│ ├── main.tf<br>
+│ ├── outputs.tf<br>
+│ └── variables.tf<br>
+├── network/<br>
+│ ├── main.tf<br>
+│ └── variables.tf<br>
+├── main.tf<br>
+├── provider.tf<br>
+└── key.json<br>
 
 ###
 
