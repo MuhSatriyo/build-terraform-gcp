@@ -63,8 +63,20 @@
 
 ###
 
-3) `firewall/`: Directory for firewall setting.
+3) `module/instance/`: Directory for reusable instance modules.<br>
 
-- `main.tf`: The main definition of firewall setting.
+###
 
-- `variable.tf`: Variables used in the firewall module.
+4) `network/`: Directory for network resources.<br>
+
+###
+
+5) `main.tf/`: The main file that imports modules and organizes the infrastructure.<br>
+
+###
+
+6) `provider.tf/`: Terraform provider configuration..<br>
+
+###
+
+7) `key.json/`: Key file for authentication to cloud provider (e.g. GCP).
