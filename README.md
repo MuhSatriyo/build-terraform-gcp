@@ -43,4 +43,4 @@
 ###
 
 <h2>Directory Structure and File Explanation 🧩</h2>
-- **`compute/`**
+- `compute/`
