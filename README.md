@@ -47,7 +47,7 @@
 
 <h2>Directory Structure and File Explanation 🧩</h2>
 
-`compute/`: Directory for computing resources.
+1) `compute/`: Directory for computing resources.
 
 - `main.tf`: The main definition of computing resources.
 
