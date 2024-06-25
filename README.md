@@ -36,10 +36,12 @@
 ###
 
 <h2>Requirement 👇</h2>
-<p>- [Terraform] https://www.terraform.io/downloads.html latest version<br>
-- Cloud provider account and appropriate credentials
+
+- `[Terraform]` ```https://www.terraform.io/downloads.html``` **latest version**
  
- - **key.json** file for authentication if using Google Cloud Platform (GCP)</p>
+- **Cloud provider account and appropriate credentials**
+ 
+- **key.json** file for authentication if using Google Cloud Platform (GCP)
 
 ###
 
