@@ -6,9 +6,8 @@
 
 ###
 
-.
 ├── compute/<br>
-│ ├── main.tf
+│<br> ├── main.tf
 │ └── variables.tf
 ├── firewall/
 │ ├── main.tf
@@ -37,6 +36,6 @@
 ###
 
 ## Requirement
-<p>- [Terraform] (https://www.terraform.io/downloads.html) latest version<br>
+<p>- [Terraform] https://www.terraform.io/downloads.html latest version<br>
 - Cloud provider account and appropriate credentials<br>
 - `key.json` file for authentication if using Google Cloud Platform (GCP)</p>
