@@ -83,10 +83,22 @@
 
 ###
 
-<h2>How to Use</h2>
+<h2>How to Use 🕵️‍♂️</h2>
 
 1. **Clone repository ini**:
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+   ```
+2. **Initialize Terraform working directory:**
+   ```bash
+   terraform init
+   ```
+3. **Create and review a Terraform plan:**
+   ```bash
+   terraform plan
+   ```
+4. **Implement the Terraform plan::**
+   ```bash
+   terraform destroy
    ```
