@@ -7,7 +7,7 @@
 ###
 
 ├── compute/<br>
-│<br> ├── main.tf
+│ ├── main.tf<br>
 │ └── variables.tf
 ├── firewall/
 │ ├── main.tf
