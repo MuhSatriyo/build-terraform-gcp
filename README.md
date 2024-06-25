@@ -52,3 +52,15 @@
 - `main.tf`: The main definition of computing resources.
 
 - `variable.tf`: Variables used in the compute module.
+
+2) `firewall/`: Directory for firewall setting.
+
+- `main.tf`: The main definition of firewall setting.
+
+- `variable.tf`: Variables used in the firewall module.
+
+3) `firewall/`: Directory for firewall setting.
+
+- `main.tf`: The main definition of firewall setting.
+
+- `variable.tf`: Variables used in the firewall module.
