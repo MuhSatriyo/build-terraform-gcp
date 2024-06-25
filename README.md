@@ -47,5 +47,8 @@
 
 <h2>Directory Structure and File Explanation 🧩</h2>
 
+`compute/`: Directory for computing resources.
 
-- `compute/`
+- `main.tf`: The main definition of computing resources.
+
+- `variable.tf`: Variables used in the compute module.
